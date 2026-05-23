@@ -78,8 +78,6 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 <tr>
 <td>
 
-### 📊 Estatísticas
-
 <p align="center">
   <img
     height="200em"
