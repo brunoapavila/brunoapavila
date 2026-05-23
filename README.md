@@ -101,3 +101,10 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 <p align="center">
   <img src="https://raw.githubusercontent.com/brunoapavila/brunoapavila/output/github-contribution-grid-snake.svg" />
 </p>
+
+---
+
+<div align="center">
+<br><p align="centre"><b>Visitantes</b></p>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunoapavila}/count.svg" /></p>
+<br></div>
