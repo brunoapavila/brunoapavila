@@ -105,6 +105,11 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 ---
 
 <div align="center">
-<br><p align="centre"><b>Visitantes</b></p>
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{brunoapavila}/count.svg" /></p>
-<br></div>
+
+<p><b>Visitantes</b></p>
+
+<p>
+  <img src="https://profile-counter.glitch.me/brunoapavila/count.svg" />
+</p>
+
+</div>
