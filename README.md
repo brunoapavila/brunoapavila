@@ -116,6 +116,6 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 ## 👀 Visitantes
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=brunoapavila.brunoapavila&left_text=000000" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=brunoapavila.brunoapavila&left_color=0d1117&right_color=58a6ff&scale=2" />
 
 </div>
