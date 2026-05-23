@@ -110,8 +110,6 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 </div>
 
----
-
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>
 <p align="center">
