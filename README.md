@@ -109,3 +109,13 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 <img src="https://komarev.com/ghpvc/?username=brunoapavila&label=PROFILE+VIEWS&color=58A6FF&style=for-the-badge" />
 
 </div>
+
+---
+
+<div align="center">
+
+## 👀 Visitantes
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=brunoapavila.brunoapavila&left_text=000000" />
+
+</div>
