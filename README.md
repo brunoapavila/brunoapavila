@@ -110,4 +110,4 @@ Minha missão é garantir que os processos e as boas praticas estabelecidas para
 
 </div>
 
-![snake gif](https://github.com/brunoapavila/brunoapavila/blob/output/snake.svg)
+![Snake animation](https://github.com/brunoapavila/brunoapavila/blob/output/.github/-contribution-grid-snake.svg)
