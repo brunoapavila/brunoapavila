@@ -94,19 +94,21 @@ Minha missão é garantir que os processos e as boas praticas estabelecidas para
 <br/>
 <br/>
 
-### 📊 Estatística
+### 📊 Estatísticas
 
-<p align="left">
-  <img 
-    height="200em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub"
-  />
-</p>
-
-<p align="left">
-  <img 
-    height="200em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias"
-  />
-</p>
-
+<table>
+  <tr>
+    <td>
+      <img 
+        height="200em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub"
+      />
+    </td>
+    <td>
+      <img 
+        height="200em"
+        src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias"
+      />
+    </td>
+  </tr>
+</table>
