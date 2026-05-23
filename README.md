@@ -114,8 +114,6 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 <div align="center">
 
-# 👀 Visitantes
-
 <img height="30" src="https://komarev.com/ghpvc/?username=brunoapavila&label=&color=08698c&style=flat" />
 
 </div>
