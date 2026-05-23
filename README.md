@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec" alt="Typing SVG" />
 </p>
 
-# 👨🏻‍💻 Bruno Avila
+### 👨🏻‍💻 Bruno Avila
 
 **`Quality Engineer`**
 
@@ -34,7 +34,7 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 ---
 
-## 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <div align="left">
 
@@ -72,25 +72,25 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 ---
 
-## 📊 Estatísticas
+### 📊 Estatísticas
 
 <table>
 <tr>
 <td>
 
-<img
-  height="200em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide_border=true"
-/>
+### 📊 Estatísticas
 
-</td>
-
-<td>
-
-<img
-  height="200em"
-  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&hide_border=true"
-/>
+<p align="center">
+  <img
+    height="200em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide_border=true&bg_color=00000000"
+  />
+  
+  <img
+    height="200em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&hide_border=true&bg_color=00000000"
+  />
+</p>
 
 </td>
 </tr>
@@ -98,7 +98,7 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 ---
 
-## 🐍 Contribuições
+### 🐍 Contribuições
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/brunoapavila/brunoapavila/output/github-contribution-grid-snake.svg" />
