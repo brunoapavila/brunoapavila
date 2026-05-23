@@ -116,6 +116,6 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 
 # 👀 Visitantes
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=brunoapavila.brunoapavila&left_color=0d1117&right_color=08698c&scale=2" />
+<img height="30" src="https://komarev.com/ghpvc/?username=brunoapavila&label=&color=08698c&style=flat" />
 
 </div>
