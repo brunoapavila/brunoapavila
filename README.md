@@ -46,7 +46,7 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
-<img src="https://cdn.simpleicons.org/playwright" width="40" />
+<img src="https://playwright.dev/img/playwright-logo.svg" width="40" />
 <img src="https://cdn.simpleicons.org/cypress" width="40" />
 <img src="https://cdn.simpleicons.org/robotframework" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" width="40" />
