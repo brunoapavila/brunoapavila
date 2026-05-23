@@ -110,6 +110,6 @@ Minha missão é garantir que os processos e as boas praticas estabelecidas para
 
 </div>
 
-<p align="center">
+<p align="left">
   <img src="https://github.com/brunoapavila/brunoapavila/blob/output/github-contribution-grid-snake-dark.svg" />
 </p>
