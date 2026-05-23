@@ -110,3 +110,4 @@ Minha missão é garantir que os processos e as boas praticas estabelecidas para
 
 </div>
 
+![snake gif](https://github.com/SEU_USUARIO_AQUI/SEU_REPO_AQUI/blob/output/snake.svg)
