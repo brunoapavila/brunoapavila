@@ -4,9 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec" alt="Typing SVG" />
 </p>
 
-### 👨🏻‍💻 Bruno Avila
+# 👨🏻‍💻Bruno Avila
 
-**`Quality Engineer`**
+🛡️ **Quality Engineer**
 
 Me chamo Bruno, sou formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Engenharia de Software com ênfase em Qualidade e Testes de Software e especializado em gestão com MBA em Gestão da Qualidade de Software.
 
