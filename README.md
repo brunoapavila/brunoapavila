@@ -110,4 +110,10 @@ Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a ent
   <img align="center" src="https://komarev.com/ghpvc/?username=brunoapavila&color=blue&style=flat" />
 </p><br></div>
 
+---
+
+<div align="center">
+<sub>Made with ❤️ by Bruno Avila</sub>
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08698c&height=120&section=footer"/>
