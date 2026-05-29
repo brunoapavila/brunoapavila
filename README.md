@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08698c&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7CDevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps" alt="Typing SVG" />
 </p>
 
 # 👨🏻‍💻Bruno Avila
