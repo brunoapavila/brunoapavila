@@ -8,9 +8,9 @@
 
 🛡️ **Quality Engineer**
 
-Me chamo Bruno, sou formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Engenharia de Software com ênfase em Qualidade e Testes de Software e especializado em gestão com MBA em Gestão da Qualidade de Software.
+Me chamo Bruno, sou formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Engenharia de Software com ênfase em Qualidade e Testes de Software com MBA em Gestão da Qualidade de Software e uma Pós-Gradução em AppSec e DevSecOps pela Cecyber.
 
-Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a entrega em produção. Minha missão é garantir que processos e boas práticas de qualidade sejam aplicados de forma ágil, prática e robusta, mantendo sempre os padrões exigidos para softwares de alta qualidade.
+Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a entrega em produção. Minha missão é garantir que processos e boas práticas de qualidade sejam aplicados de forma ágil, prática e robusta, mantendo sempre os padrões exigidos para softwares de alta qualidade e sua segurança.
 
 <div align="left">
 
