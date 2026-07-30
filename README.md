@@ -8,9 +8,7 @@
 
 🛡️ **Quality Engineer**
 
-Me chamo Bruno, sou formado em Análise e Desenvolvimento de Sistemas, Pós-Graduado em Engenharia de Software com ênfase em Qualidade e Testes de Software com MBA em Gestão da Qualidade de Software e uma Pós-Gradução em AppSec e DevSecOps pela Cecyber.
-
-Meu foco é entregar qualidade de ponta a ponta, desde o planejamento até a entrega em produção. Minha missão é garantir que processos e boas práticas de qualidade sejam aplicados de forma ágil, prática e robusta, mantendo sempre os padrões exigidos para softwares de alta qualidade e sua segurança.
+QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de software, automação e segurança da aplicação — o profissional que garante não só que o sistema funciona, mas que funciona de forma segura. Pós-graduando em Segurança da Informação (AppSec & DevSecOps), com MBA em Gestão da Qualidade e Pós-Graduação em Engenharia de Software, em busca de especialização contínua na integração entre qualidade e segurança ao longo de todo o SDLC. Já conduziu de ponta a ponta análises de vulnerabilidade com SAST, DAST e SCA (SonarQube, OWASP ZAP, Snyk), incluindo a remediação e o fechamento bem-sucedido de achados de Pentest em ambiente de produção. Combina isso com forte domínio de automação Web e Mobile (Playwright, Selenium, Cypress, Appium) e CI/CD em projetos dos setores Financeiro, Bancário, Meios de Pagamento, Construção Civil e Propriedade Intelectual. Objetivo de carreira: se aprofundar em Segurança da Informação e consolidar a atuação como referência em qualidade orientada à segurança (Security-Driven QA). 
 
 <div align="left">
 
