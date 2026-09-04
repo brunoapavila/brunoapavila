@@ -73,7 +73,6 @@ QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de softwar
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com?user=brunoapavila&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoapavila&theme=tokyonight&hide_border=true" alt="Profile Details" />
 </p>
 
