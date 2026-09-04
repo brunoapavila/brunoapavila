@@ -73,12 +73,11 @@ QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de softwar
 ### 📊 Estatísticas
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_border=true&bg_color=00000000&cache_seconds=86400" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&hide_border=true&bg_color=00000000&cache_seconds=86400" 
-  />
+  <img src="https://github-readme-streak-stats.demolab.com?user=brunoapavila&theme=tokyonight&hide_border=true&background=00000000" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoapavila&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
