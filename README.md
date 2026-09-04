@@ -72,25 +72,16 @@ QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de softwar
 
 ### 📊 Estatísticas
 
-<table>
-<tr>
-<td>
-
 <p align="center">
-  <img
-    height="200em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estatísticas%20do%20GitHub&hide_border=true&bg_color=00000000"
+  <img 
+    height="190px" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=brunoapavila&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&custom_title=Estat%C3%ADsticas%20do%20GitHub&hide_border=true&bg_color=00000000" 
   />
-  
-  <img
-    height="200em"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&hide_border=true&bg_color=00000000"
+  <img 
+    height="190px" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brunoapavila&layout=compact&langs_count=8&theme=tokyonight&custom_title=Tecnologias&hide_border=true&bg_color=00000000" 
   />
 </p>
-
-</td>
-</tr>
-</table>
 
 ---
 
