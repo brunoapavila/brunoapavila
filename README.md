@@ -6,7 +6,7 @@
 
 # 👨🏻‍💻Bruno Avila
 
-🛡️ **Quality Engineer**
+🛡️ **Quality Engineer | AppSec & DevSecOps | Software Quality & Security | SDET | AI-Assisted Development | Vibe Coding | Secure SDLC | Application Security Engineer | QA Automation Engineer**
 
 Atuo em Engenharia e Qualidade de Software (Quality Engineering), automação de testes e Segurança de Aplicações (AppSec/DevSecOps), com foco na construção e entrega de soluções seguras, confiáveis e de alta qualidade.
 
