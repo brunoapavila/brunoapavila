@@ -8,8 +8,29 @@
 
 🛡️ **Quality Engineer**
 
-QA Sênior e SDET com mais de 6 anos de experiência unindo qualidade de software, automação e segurança da aplicação — o profissional que garante não só que o sistema funciona, mas que funciona de forma segura. Pós-graduando em Segurança da Informação (AppSec & DevSecOps), com MBA em Gestão da Qualidade e Pós-Graduação em Engenharia de Software, em busca de especialização contínua na integração entre qualidade e segurança ao longo de todo o SDLC. Já conduziu de ponta a ponta análises de vulnerabilidade com SAST, DAST e SCA (SonarQube, OWASP ZAP, Snyk), incluindo a remediação e o fechamento bem-sucedido de achados de Pentest em ambiente de produção. Combina isso com forte domínio de automação Web e Mobile (Playwright, Selenium, Cypress, Appium) e CI/CD em projetos dos setores Financeiro, Bancário, Meios de Pagamento, Construção Civil e Propriedade Intelectual. Objetivo de carreira: se aprofundar em Segurança da Informação e consolidar a atuação como referência em qualidade orientada à segurança (Security-Driven QA). 
+Atuo em Engenharia e Qualidade de Software (Quality Engineering), automação de testes e Segurança de Aplicações (AppSec/DevSecOps), com foco na construção e entrega de soluções seguras, confiáveis e de alta qualidade.
 
+Minha trajetória inclui participação em projetos de grandes organizações, especialmente no setor financeiro, como Cielo, Fiserv, Banco BV, Bradesco e Santander, atuando em ambientes que demandam qualidade, estabilidade, segurança e melhoria contínua.
+
+Sou graduado em Análise e Desenvolvimento de Sistemas, pós-graduado em Engenharia de Software com ênfase em Testes, possuo MBA em Gestão da Qualidade e pós-graduação em AppSec e DevSecOps pela Cecyber.
+
+QUALITY ENGINEERING | QA AUTOMATION | SDET
+Experiência no planejamento e execução de estratégias de testes funcionais, regressivos, exploratórios, de integração, APIs, mobile e performance, com atenção à rastreabilidade, prevenção de defeitos e qualidade ponta a ponta.
+
+APPLICATION SECURITY | APPSEC | DEVSECOPS
+Conhecimentos especializados e experiência prática em segurança de aplicações, Secure SDLC, análise de vulnerabilidades, SAST, DAST, SCA, segurança de dependências e proteção de credenciais.
+Desenvolvimento de estudos, automações e projetos de segurança utilizando ferramentas como OWASP ZAP, Burp Suite, Semgrep, Trivy, Gitleaks, Snyk, Syft e Grype, com foco na identificação, análise e priorização de riscos.
+
+AI-ASSISTED DEVELOPMENT | VIBE CODING | SOFTWARE ENGINEERING.
+Atuo também no desenvolvimento de sistemas e automações com apoio de Inteligência Artificial Generativa, aplicando Vibe Coding, Prompt Engineering e práticas de engenharia de software para transformar requisitos e necessidades de negócio em soluções técnicas.
+Desenvolvo projetos que envolvem arquitetura de aplicações, backend, frontend, APIs REST, bancos de dados, containers, infraestrutura, automação e segurança, utilizando IA como aceleradora do processo de desenvolvimento.
+Meu princípio é utilizar a Inteligência Artificial para aumentar a produtividade sem comprometer qualidade, segurança, rastreabilidade e boas práticas de engenharia.
+
+Minha abordagem combina especificação de requisitos, definição arquitetural, geração assistida de código, revisão, testes, análise de vulnerabilidades e evolução incremental das soluções.
+
+Acredito que qualidade e segurança não devem ser atividades isoladas ou verificações realizadas somente no final do desenvolvimento. Elas precisam fazer parte de todo o ciclo de vida do software.
+
+Vamos nos conectar e trocar experiências sobre tecnologia, qualidade e segurança de aplicações.
 <div align="left">
 
 <a href="https://www.linkedin.com/in/bruno-avila-7bb1a7238/" target="_blank">
