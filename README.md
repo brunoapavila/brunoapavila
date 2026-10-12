@@ -2,8 +2,8 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=08698c&amp;center=true&amp;vCenter=true&amp;width=1400&amp;height=60&amp;lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps+%7C+AI+Native+Software+Engineer"
-    alt="QA | Automação | AppSec | DevSecOps | AI Native Software Engineer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=32&amp;pause=1000&amp;color=08698c&amp;center=true&amp;vCenter=true&amp;width=700&amp;height=65&amp;lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps;AI+Native+Software+Engineer"
+    alt="Quality Engineer | QA | Automação | AppSec | DevSecOps | AI Native Software Engineer"
   />
 </p>
 
