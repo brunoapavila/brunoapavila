@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08698c&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps+AI+Native+Software+Engineer" alt="Typing SVG" />
 </p>
 
 # 👨🏻‍💻Bruno Avila
@@ -21,7 +21,7 @@ APPLICATION SECURITY | APPSEC | DEVSECOPS
 Conhecimentos especializados e experiência prática em segurança de aplicações, Secure SDLC, análise de vulnerabilidades, SAST, DAST, SCA, segurança de dependências e proteção de credenciais.
 Desenvolvimento de estudos, automações e projetos de segurança utilizando ferramentas como OWASP ZAP, Burp Suite, Semgrep, Trivy, Gitleaks, Snyk, Syft e Grype, com foco na identificação, análise e priorização de riscos.
 
-AI-ASSISTED DEVELOPMENT | VIBE CODING | SOFTWARE ENGINEERING.
+AI-Native Software Engineer | AI-ASSISTED DEVELOPMENT | VIBE CODING | SOFTWARE ENGINEERING.
 Atuo também no desenvolvimento de sistemas e automações com apoio de Inteligência Artificial Generativa, aplicando Vibe Coding, Prompt Engineering e práticas de engenharia de software para transformar requisitos e necessidades de negócio em soluções técnicas.
 Desenvolvo projetos que envolvem arquitetura de aplicações, backend, frontend, APIs REST, bancos de dados, containers, infraestrutura, automação e segurança, utilizando IA como aceleradora do processo de desenvolvimento.
 Meu princípio é utilizar a Inteligência Artificial para aumentar a produtividade sem comprometer qualidade, segurança, rastreabilidade e boas práticas de engenharia.
