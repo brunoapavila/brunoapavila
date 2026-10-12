@@ -1,12 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08698c&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=08698c&center=true&vCenter=true&width=700&lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps+AI+Native+Software+Engineer" alt="Typing SVG" />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=08698c&amp;center=true&amp;vCenter=true&amp;width=1400&amp;height=60&amp;lines=Bem-vindo+ao+meu+GitHub!;Quality+Engineer;QA+%7C+Automação+%7C+AppSec+%7C+DevSecOps+%7C+AI+Native+Software+Engineer"
+    alt="QA | Automação | AppSec | DevSecOps | AI Native Software Engineer"
+  />
 </p>
 
 # 👨🏻‍💻Bruno Avila
 
-🛡️ **Quality Engineer | AppSec & DevSecOps | Software Quality & Security | SDET | AI-Assisted Development | Vibe Coding | Secure SDLC | Application Security Engineer | QA Automation Engineer**
+🛡️ **Quality Engineer | AppSec & DevSecOps | Software Quality & Security | SDET | AI-Assisted Development | AI-Native Software Engineer | Secure SDLC | Application Security Engineer | QA Automation Engineer**
 
 Atuo em Engenharia e Qualidade de Software (Quality Engineering), automação de testes e Segurança de Aplicações (AppSec/DevSecOps), com foco na construção e entrega de soluções seguras, confiáveis e de alta qualidade.
 
