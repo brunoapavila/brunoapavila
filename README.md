@@ -107,6 +107,7 @@ Vamos nos conectar e trocar experiências sobre tecnologia, qualidade e seguran�
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
 
+
 ## 🔐 AppSec, DevSecOps & Segurança da Informação
 
 ![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
@@ -126,6 +127,7 @@ Vamos nos conectar e trocar experiências sobre tecnologia, qualidade e seguran�
 ![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoftdefender&logoColor=white)
 ![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01E26?style=flat-square&logo=crowdstrike&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
 
 ## 🛡️ Práticas e Conceitos de Segurança
 
