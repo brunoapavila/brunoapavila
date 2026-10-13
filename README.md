@@ -168,11 +168,12 @@ Vamos nos conectar e trocar experiÃªncias sobre tecnologia, qualidade e seguranÃ
 
 ---
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>
+
 <p align="center">
-  <img align="center" src="https://komarev.com/ghpvc/?username=brunoapavila&color=blue&style=flat" />
-</p><br></div>
+  <a href="https://github.com/brunoapavila">
+    <img src="https://komarev.com/ghpvc/?username=brunoapavila" alt="Profile views" />
+  </a>
+</p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=08698c&height=120&section=footer"/>
 
