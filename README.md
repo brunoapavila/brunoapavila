@@ -155,7 +155,10 @@ Vamos nos conectar e trocar experiências sobre tecnologia, qualidade e seguran�
 ### 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoapavila&theme=tokyonight&hide_border=true" alt="Profile Details" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brunoapavila&theme=tokyonight"
+    alt="Estatísticas e contribuições do GitHub"
+  />
 </p>
 
 ---
