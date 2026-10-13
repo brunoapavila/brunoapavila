@@ -94,6 +94,62 @@ Vamos nos conectar e trocar experiências sobre tecnologia, qualidade e seguran�
 
 ---
 
+## ☁️ DevOps, Cloud & Observabilidade
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=flat-square&logo=dynatrace&logoColor=white)
+![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white)
+
+## 🔐 AppSec, DevSecOps & Segurança da Informação
+
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Semgrep](https://img.shields.io/badge/Semgrep-222222?style=flat-square&logo=semgrep&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat-square&logo=aquasec&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73?style=flat-square&logo=snyk&logoColor=white)
+![Gitleaks](https://img.shields.io/badge/Gitleaks-800000?style=flat-square&logo=git&logoColor=white)
+![Syft](https://img.shields.io/badge/Syft-4B32C3?style=flat-square&logo=anchore&logoColor=white)
+![Grype](https://img.shields.io/badge/Grype-0075A8?style=flat-square&logo=anchore&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
+![HashiCorp Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat-square&logo=vault&logoColor=white)
+![Checkmarx](https://img.shields.io/badge/Checkmarx-54B848?style=flat-square&logo=checkmarx&logoColor=white)
+![Fortify](https://img.shields.io/badge/OpenText_Fortify-0076CE?style=flat-square&logo=opentext&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat-square&logo=dependabot&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=flat-square&logo=renovate&logoColor=white)
+![Microsoft Defender](https://img.shields.io/badge/Microsoft_Defender-0078D4?style=flat-square&logo=microsoftdefender&logoColor=white)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-E01E26?style=flat-square&logo=crowdstrike&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+
+## 🛡️ Práticas e Conceitos de Segurança
+
+![Secure SDLC](https://img.shields.io/badge/Secure_SDLC-2E8B57?style=flat-square)
+![DevSecOps](https://img.shields.io/badge/DevSecOps-00599C?style=flat-square)
+![SAST](https://img.shields.io/badge/SAST-6A1B9A?style=flat-square)
+![DAST](https://img.shields.io/badge/DAST-C62828?style=flat-square)
+![SCA](https://img.shields.io/badge/SCA-1565C0?style=flat-square)
+![IAST](https://img.shields.io/badge/IAST-00838F?style=flat-square)
+![RASP](https://img.shields.io/badge/RASP-4527A0?style=flat-square)
+![Secrets Management](https://img.shields.io/badge/Secrets_Management-424242?style=flat-square)
+![Vulnerability Management](https://img.shields.io/badge/Vulnerability_Management-B71C1C?style=flat-square)
+![Threat Modeling](https://img.shields.io/badge/Threat_Modeling-6D4C41?style=flat-square)
+![OWASP Top 10](https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white)
+![SBOM](https://img.shields.io/badge/SBOM-00897B?style=flat-square)
+![Supply Chain Security](https://img.shields.io/badge/Supply_Chain_Security-455A64?style=flat-square)
+![Shift Left Security](https://img.shields.io/badge/Shift_Left_Security-2E7D32?style=flat-square)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-1565C0?style=flat-square)
+![IAM](https://img.shields.io/badge/IAM-37474F?style=flat-square)
+![Container Security](https://img.shields.io/badge/Container_Security-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloud Security](https://img.shields.io/badge/Cloud_Security-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+---
+
 ### 📊 Estatísticas
 
 <p align="center">
